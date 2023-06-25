@@ -19,7 +19,7 @@ import math
 import os
 
 # OpenAI API key
-openai.api_key = "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"
+openai.api_key = "ВАШ ЛИЧНЫЙ КЛЮЧ"
 
 data = ''
 
