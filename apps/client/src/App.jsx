@@ -14,6 +14,7 @@ function App() {
             <Route path="/form/*" element={<Form />} />
             <Route exact path="/article" element={<Article />} />
           </Routes>
+          
         </BrowserRouter>
       </div>
     </>
